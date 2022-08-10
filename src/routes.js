@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 const {addNoteHandler, getAllNotesHandler, getNoteByIdHandler} = require('./handler');
 
 const routes = [
